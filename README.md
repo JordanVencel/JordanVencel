@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A passionate frontend developer, software engineer, and music producer</h3>
 
-- 🔭 I’m currently working at ONETechnology **Visual Workflow Designer**
+- 🔭 I’m currently working at ONETechnology on our **Visual Workflow Designer**
 
 - 👯 I’m looking to collaborate on **AI/ML projects in the electronic music production space**
 
