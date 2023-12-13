@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with **C++ && VST plugin development**
 
-- 💬 Ask me about **The processing framework!**
+- 💬 Ask me about: **The processing framework!**
 
-- 📫 How to reach me **jordanvmartinez@gmail.com**
+- 📫 How to reach me: **jordanvmartinez@gmail.com**
 
-- ⚡ Fun fact **I have a dog named Violet**
+- ⚡ Fun fact: **I have a dog named Violet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
