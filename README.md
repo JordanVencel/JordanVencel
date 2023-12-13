@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **jordanvmartinez@gmail.com**
 
-- ⚡ Fun fact: **I have a dog named Violet**
+- ⚡ Fun fact: **I have a dog named Violet and I produce techno**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
